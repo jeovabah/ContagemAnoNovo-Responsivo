@@ -1,2 +1,2 @@
 # https://jeovabah.github.io/ContagemAnoNovo-Responsivo/
-## Projeto Contagem até o ano Novo, ultilizando JS, HTML e CSS
+## Projeto Contagem até o ano Novo, utilizando JS, HTML e CSS
